@@ -136,14 +136,14 @@ body {
 }
 
 .header__menu-link:hover:after {
-  -webkit-transform: scaleX(90%);
-          transform: scaleX(90%);
+  -webkit-transform: scaleX(.9);
+          transform: scaleX(.9);
   opacity: 1;
 }
 
 .header__menu-link:focus:after {
-  -webkit-transform: scaleX(100%);
-          transform: scaleX(100%);
+  -webkit-transform: scaleX(1);
+          transform: scaleX(1);
   opacity: .5;
 }
 
